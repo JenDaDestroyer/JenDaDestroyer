@@ -5,11 +5,6 @@
 - 💞️ I’m looking to collaborate on beginner friendly projects written in Java, C++, or Python
 - 📫 How to reach me: email me, jmcdonnell00@gmail.com
 
-## Github Stats
-![](https://github-readme-stats.vercel.app/api?username=JennyMcDonnell&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JennyMcDonnell&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JennyMcDonnell&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
